@@ -1,0 +1,5 @@
+class TworkspaceControl
+{
+public:
+	TworkspaceControl();
+};
