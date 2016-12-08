@@ -1,3 +1,5 @@
-class TworkspaceControl
+#include "TworkspaceControl.h"
+
+TworkspaceControl::TworkspaceControl()
 {
-};
+}
